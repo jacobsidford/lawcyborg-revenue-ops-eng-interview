@@ -1,0 +1,15 @@
+{
+  "name": "revops-interview",
+  "version": "1.0.0",
+  "description": "Revenue Operations Engineer Technical Interview",
+  "type": "module",
+  "scripts": {
+    "setup": "node src/seed.js",
+    "test": "node src/test.js",
+    "query": "node src/runQuery.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0"
+  }
+}
+
