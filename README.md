@@ -4,6 +4,9 @@ Welcome! This folder contains everything you need to complete the interview.
 
 ## Quick Start
 
+Requirements:
+Node version 18.20.5
+
 ```bash
 # Install dependencies
 npm install
